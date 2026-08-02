@@ -1,31 +1,55 @@
 # Lessons Learned
 
-## What I Learned
+## Overview
 
-- Business Discovery begins before recommending technology.
+The Business Discovery phase provided a structured understanding of ASHREI Facility Services before any technology recommendations were made. This phase established the business context, identified operational challenges and documented opportunities for digital transformation.
 
-- Every recommendation should solve a business problem.
+---
 
-- Digital transformation is about improving business processes rather than simply introducing new software.
+## Key Learnings
 
-- IT Governance and AI Governance should be planned before an organization scales.
+During this phase I learned that:
 
-## Challenges
+- Digital transformation begins with understanding the business rather than selecting technology.
+- Every technology recommendation should address a specific business problem.
+- Stakeholder analysis is essential because different groups have different priorities and expectations.
+- Good documentation creates consistency and supports future growth.
+- AI should be introduced responsibly through governance rather than ad hoc adoption.
 
-Learning Markdown.
+---
 
-Using GitHub.
+## Challenges Encountered
 
-Thinking like a consultant.
+The main challenges during this phase included:
 
-## How I Solved Them
+- Learning Markdown and GitHub documentation.
+- Structuring a consulting-style report.
+- Translating business problems into technology recommendations.
 
-I researched GitHub documentation.
+---
 
-I followed consulting documentation standards.
+## How the Challenges Were Addressed
 
-I broke the project into manageable phases.
+The challenges were addressed by:
+
+- Researching GitHub documentation.
+- Following professional documentation standards.
+- Breaking the engagement into manageable phases.
+- Reviewing and refining each deliverable before publication.
+
+---
+
+## Skills Demonstrated
+
+- Business Analysis
+- Stakeholder Analysis
+- Technical Documentation
+- Strategic Thinking
+- Digital Transformation
+- Problem Analysis
+
+---
 
 ## Reflection
 
-The Business Discovery phase helped me understand the importance of analysing an organization's current state before designing future technology solutions.
+Completing the Business Discovery phase reinforced the importance of understanding an organization's current state before proposing technology solutions. It also highlighted the value of structured documentation and governance as foundations for sustainable business growth.
