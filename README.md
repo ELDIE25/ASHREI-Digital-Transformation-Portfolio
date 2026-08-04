@@ -22,7 +22,7 @@ The portfolio is structured as if I were part of a consulting team engaged by **
 
 # Business Scenario
 
-ASHREI Facility Services is a planned commercial cleaning and facilities services company headquartered in **Ottawa, Ontario**.
+ASHREI Facility Services is a commercial cleaning and facilities services company headquartered in **Ottawa, Ontario**.
 
 The company is preparing for rapid growth and requires:
 
