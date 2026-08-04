@@ -1,5 +1,3 @@
-This document simply expands it.
-
 Include
 
 Business Hours
