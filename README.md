@@ -20,6 +20,18 @@ The portfolio is structured as if I were part of a consulting team engaged by **
 
 ---
 
+## How to Read This Portfolio
+
+This portfolio is built in layers.
+
+- Sections **02–03** — IT Service Management and IT Support Operations — reflect the practical skills I am applying with today for Help Desk, Service Desk, and Junior IT Support roles.
+- Sections **04–05** — Identity, Microsoft 365, Cybersecurity, and GRC — show the technical and governance foundation I am building next.
+- Sections **06–08** — AI Governance, Business Analysis, and AI Product Design — reflect the direction I am growing toward as I gain Canadian IT experience.
+
+The repository is intentionally structured from operational support to governance and digital transformation because I wanted to understand how a real IT environment is supported first, then controlled, improved, and responsibly modernized.
+
+---
+
 # Business Scenario
 
 ASHREI Facility Services is a commercial cleaning and facilities services company headquartered in **Ottawa, Ontario**.
